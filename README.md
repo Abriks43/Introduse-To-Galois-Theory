@@ -1,7 +1,7 @@
 # Introduse-To-Galois-Theory
 The course “Introduction to Galois Theory” aims to understand the solvability of algebraic equations and examine the historical development of this interesting theory.
-<br>Playlist of video lectures:
- https://youtube.com/playlist?list=PLxjHS_RUvhVBLd8Hbjs3XNKG0rQG-VjuS&si=0NW1RwSwdcsd0h5G   
+<br>Playlist of video lectures:<br>
+ https://youtube.com/playlist?list=PLxjHS_RUvhVBLd8Hbjs3XNKG0rQG-VjuS&si=0NW1RwSwdcsd0h5G  <br>
 Plane of course:<br>
 -Third and fourth degree equations<br>
 -Finite field extensions<br>
