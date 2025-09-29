@@ -2,7 +2,7 @@
 The course “Introduction to Galois Theory” aims to understand the solvability of algebraic equations and examine the historical development of this interesting theory.
 
 Plane of course:<br>
-   -Third and fourth degree equations<br>
+-Third and fourth degree equations<br>
 -Finite field extensions<br>
 -Polynomial numbers<br>
 -Gauss-Wansel theorem<br>
